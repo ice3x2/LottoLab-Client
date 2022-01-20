@@ -1,1 +1,1 @@
-# LottoLab-Clinet
+# LottoLab-Client
